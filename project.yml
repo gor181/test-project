@@ -9,7 +9,7 @@ long_description: |
 time_needed: "45 minutes" # "30/45/60 minutes".
 instructors: # DataCamp connected email of the creator of the Project
   - goran+instructor@datacamp.com
-  - goran@datacamp.com
+  - 4 # goran@datacamp.com
 collaborators: # DataCamp connected email of people that helped with teh Project
   - goran+author@datacamp.com
 
