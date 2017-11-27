@@ -8,9 +8,10 @@ long_description: |
   Should mention and link to prerequsite courses.
 time_needed: "45 minutes" # "30/45/60 minutes".
 instructors: # DataCamp connected email of the creator of the Project
-  - rasmus@datacamp.com
+  - goran+instructor@datacamp.com
+  - goran@datacamp.com
 collaborators: # DataCamp connected email of people that helped with teh Project
-  - rasmus@datacamp.com
+  - goran+author@datacamp.com
 
 #### Metadata regarding course requirements and topics ####
 #### This will be updated by your DataCamp contact     ####
