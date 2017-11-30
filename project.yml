@@ -39,3 +39,4 @@ runtime_config : default # default/heavy . Set to heavy for more resource intens
 #### Please don't do this without talking with your DataCamp contact first.  ####
 state          : development # development/live .
 
+xp: 5000
